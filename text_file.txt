@@ -1,7 +1,3 @@
 There is a change in this file.
 Lets edit this file
-<<<<<<< HEAD
-Line 3 added
-=======
 LIKHDE KHUCH BHI
->>>>>>> 91b49c63446e5801b33f8cb9accd533c316a5be5

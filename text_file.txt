@@ -21,6 +21,6 @@ close: 2,892.00
 Asian Paints Ltd
 
 open : 2,895.00
-high : 2,895:00
+high : 2,896:00
 low  : 2,850.00
-close: 2,849.00
+close: 2,892.00
